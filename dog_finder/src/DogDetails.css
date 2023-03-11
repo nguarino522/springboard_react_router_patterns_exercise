@@ -1,0 +1,24 @@
+.DogDetails img {
+  max-width: 50%;
+  border-radius: 5%;
+  margin-top: 1rem;
+}
+
+.DogDetails {
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+}
+
+.DogDetails-facts {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  margin-bottom: 2px;
+}

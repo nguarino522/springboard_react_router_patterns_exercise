@@ -1,0 +1,18 @@
+.DogList {
+    text-align: center;
+}
+
+.DogList-dogs {
+    margin: 5px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 300px);
+}
+
+.DogList-dog img {
+    width: 200px;
+}
+
+.DogList-dog {
+    text-align: center;
+}
